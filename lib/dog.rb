@@ -1,2 +1,4 @@
 class Dog
-  def names
+  def name
+    @name
+    
